@@ -1,5 +1,5 @@
 
-## Hi there 🥷
+## Hi there 💻
 
 ### 📊 Stats
 <div align="center">
@@ -7,17 +7,17 @@
 <img src="https://github-readme-stats.vercel.app/api?username=msaserj&show_icons=true&count_private=true&hide_border=true&title_color=494&text_color=888&icon_color=494&bg_color=0000"
              title="msaserj github repositories" 
              alt="msaserj github stats"
-             width="60%"/>
+             width="50%"/>
 </a>
 <a href="https://github.com/msaserj?tab=repositories">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaserj&&layout=compact&hide_border=true&title_color=494&text_color=888&bg_color=0000"
              title="msaserj github repositories"
              alt="msaserj github stats"
-             width="50%"/>
+             width="40%"/>
     </a>
 </div>
 
-### 💻 Skills
+### 🥷 Skills
 
 <div align="left">
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -39,12 +39,14 @@
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div>
 
+<br/>
+
 <div align="center">
 <a href="https://www.codewars.com/users/msaserj">
     <img src="https://www.codewars.com/users/msaserj/badges/small"
              title="msaserj github repositories" 
              alt="msaserj github stats"
-             width="49%"/>
+             width="40%"/>
 </a>
 </div>
 
