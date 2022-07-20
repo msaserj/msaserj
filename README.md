@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="color: red">
+<div style="background-color: red">
 <h1>Test</h1>
 
 </div>
