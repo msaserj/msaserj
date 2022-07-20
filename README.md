@@ -7,7 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=msaserj&show_icons=true&count_private=true&hide_border=true&title_color=494&text_color=888&icon_color=494&bg_color=0000"
              title="msaserj github repositories" 
              alt="msaserj github stats"
-             width="49%"/>
+             width="60%"/>
 </a>
 <a href="https://github.com/msaserj?tab=repositories">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaserj&&layout=compact&hide_border=true&title_color=494&text_color=888&bg_color=0000"
