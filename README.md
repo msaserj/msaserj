@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Playing with Inline Styles</title>
+  </head>
+  <body>
+    <p style="color:blue;font-size:46px;">
+      I'm a big, blue, <strong>strong</strong> paragraph
+    </p>
+  </body>
+</html>
+
+
 <div style="background-color: red;">
 <h1 style="color: green;">Test</h1>
 
