@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
-[![Anurag](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag](https://github-readme-stats.vercel.app/api?username=msaserj)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **msaserj/msaserj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
