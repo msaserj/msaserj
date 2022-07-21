@@ -17,7 +17,7 @@
     </a>
 </div>
 
-### 🥷 Skills
+### 🥷 Languages and Tools
 
 <div align="left">
 <a href="https://reactjs.org">
@@ -43,7 +43,6 @@
 <img alt="Debian" src="https://img.shields.io/badge/Debian-red?style=for-the-badge&logo=Debian&logoColor=white"/>
 </div>
 
-
 <br/>
 
 <div align="center">
@@ -54,13 +53,6 @@
              width="40%"/>
 </a>
 </div>
-
-
-
-
-
-
-
 
 
 <!--
