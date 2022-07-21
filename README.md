@@ -5,7 +5,8 @@
 <div align="center">
 <a href="https://github.com/msaserj?tab=repositories">
 <img src="https://github-readme-stats.vercel.app/api?username=msaserj&show_icons=true&count_private=true&hide_border=true&title_color=494&text_color=888&icon_color=494&bg_color=0000"
-             title="msaserj github repositories" 
+             title="msaserj github repositories"
+              custom_title="msaserj github stats"
              alt="msaserj github stats"
              width="50%"/>
 </a>
