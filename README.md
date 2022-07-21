@@ -35,7 +35,7 @@
 <img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img alt="storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
-<img alt="WSC" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="VSC" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="LinuxMint" src="https://img.shields.io/badge/LinuxMint-21a336?style=for-the-badge&logo=LinuxMint&logoColor=white"/>
 <img alt="Debian" src="https://img.shields.io/badge/Debian-red?style=for-the-badge&logo=Debian&logoColor=white
 "/>
