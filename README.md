@@ -5,12 +5,14 @@
 <div align="center">
 <a href="https://github.com/msaserj?tab=repositories">
 <img src="https://github-readme-stats.vercel.app/api?username=msaserj&show_icons=true&count_private=true&hide_border=true&title_color=494&text_color=888&icon_color=494&bg_color=0000&custom_title=Current github stats"
+              align="center"
              title="msaserj github repositories"
              alt="msaserj github stats"
              width="50%"/>
 </a>
 <a href="https://github.com/msaserj?tab=repositories">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaserj&&layout=compact&hide_border=true&title_color=494&text_color=888&bg_color=0000"
+              align="center"
              title="msaserj github repositories"
              alt="msaserj github stats"
              width="40%"/>
