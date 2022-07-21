@@ -41,6 +41,7 @@
 <img alt="VSC" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="LinuxMint" src="https://img.shields.io/badge/LinuxMint-21a336?style=for-the-badge&logo=LinuxMint&logoColor=white"/>
 <img alt="Debian" src="https://img.shields.io/badge/Debian-red?style=for-the-badge&logo=Debian&logoColor=white"/>
+<img alt="Axios" src="https://img.shields.io/badge/Axios-red?style=for-the-badge&logo=Debian&logoColor=white"/>
 </div>
 
 <br/>
