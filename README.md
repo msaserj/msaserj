@@ -16,6 +16,12 @@
     </a>
 </div>
 
+<div align="center">
+<a href="https://github.com/msaserj?tab=repositories">
+<img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=msaserj&hide_border=true"/>
+</a>
+</div>
+
 ### 🥷 Skills
 
 <div align="left">
@@ -68,14 +74,6 @@
 <img alt="Debian" src="https://img.shields.io/badge/Debian-white?style=for-the-badge&logo=Debian&logoColor=red"/>
 </a>
 </div>
-
-<div align="left">
-<a href="https://github.com/msaserj?tab=repositories">
-<img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=msaserj&hide_border=true"/>
-</a>
-</div>
-
-
 
 <br/>
 
