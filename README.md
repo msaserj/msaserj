@@ -69,7 +69,14 @@
 </a>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=msaserj&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<div align="left">
+<a href="https://github.com/msaserj?tab=repositories">
+<img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=msaserj&hide_border=true"/>
+</a>
+</div>
+
+
+
 <br/>
 
 <div align="center">
