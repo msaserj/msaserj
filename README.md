@@ -1,5 +1,5 @@
 
-### 📊 Stats
+### 📊
 
 <div align="center">
 <a href="https://github.com/msaserj?tab=repositories">
@@ -22,7 +22,7 @@
 </a>
 </div>
 
-### 🥷 Skills
+### 🥷
 
 <div align="left">
 <a href="https://reactjs.org">
