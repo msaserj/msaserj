@@ -70,6 +70,9 @@
 <a href="https://linuxmint.com">
 <img alt="LinuxMint" src="https://img.shields.io/badge/LinuxMint-21a336?style=for-the-badge&logo=LinuxMint&logoColor=white"/>
 </a>
+<a href="https://linuxmint.com">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-21a336?style=for-the-badge&logo=LinuxMint&logoColor=white"/>
+</a>
 <a href="https://www.debian.org">
 <img alt="Debian" src="https://img.shields.io/badge/Debian-white?style=for-the-badge&logo=Debian&logoColor=red"/>
 </a>
