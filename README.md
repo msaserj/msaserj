@@ -76,7 +76,7 @@
 <a href="https://www.debian.org">
 <img alt="Debian" src="https://img.shields.io/badge/Debian-white?style=for-the-badge&logo=Debian&logoColor=red"/>
 </a>
-<a href="https://www.debian.org">
+<a href="https://www.mysql.com/">
 <img alt="Debian" src="https://img.shields.io/badge/SQL-%230081CB?style=for-the-badge&logo=MySQL&logoColor=white"/>
 </a>
 </div>
