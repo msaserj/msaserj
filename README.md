@@ -31,6 +31,9 @@
 <a href="https://redux.js.org">
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 </a>
+<a href="https://redux.js.org">
+<img alt="Formik" src="https://img.shields.io/badge/Formik-593D88?style=for-the-badge&logo=formik&logoColor=white">
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </a>
