@@ -71,13 +71,13 @@
 <img alt="VSC" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </a>
 <a href="https://linux.com">
-<img alt="Linux" src="https://img.shields.io/badge/Linux-292723?style=for-the-badge&logo=Linux&logoColor=black"/>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-4a4841?style=for-the-badge&logo=Linux&logoColor=black"/>
 </a>
 <a href="https://linuxmint.com">
 <img alt="LinuxMint" src="https://img.shields.io/badge/LinuxMint-21a336?style=for-the-badge&logo=LinuxMint&logoColor=white"/>
 </a>
 <a href="https://www.debian.org">
-<img alt="Debian" src="https://img.shields.io/badge/Debian-292723?style=for-the-badge&logo=Debian&logoColor=red"/>
+<img alt="Debian" src="https://img.shields.io/badge/Debian-4a4841?style=for-the-badge&logo=Debian&logoColor=red"/>
 </a>
 <a href="https://www.mysql.com/">
 <img alt="Debian" src="https://img.shields.io/badge/SQL-%230081CB?style=for-the-badge&logo=MySQL&logoColor=white"/>
