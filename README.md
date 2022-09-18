@@ -28,6 +28,9 @@
 <a href="https://reactjs.org">
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </a>
+<a href="https://reactnative.dev">
+<img alt="ReactNative" src="https://img.shields.io/badge/reactnative-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+</a>
 <a href="https://redux.js.org">
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 </a>
@@ -43,8 +46,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<a href="https://sass-lang.com">
+<img alt="SCSS" src="https://img.shields.io/badge/SCSS-FF4785?style=for-the-badge&logo=sass&logoColor=white">
 </a>
 <a href="https://getbootstrap.com">
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
