@@ -1,5 +1,5 @@
 
-### 📊 Stats
+### 📊
 
 <div align="center">
 <a href="https://github.com/msaserj?tab=repositories">
@@ -22,7 +22,7 @@
 </a>
 </div>
 
-### 🥷 Skills
+### 🥷
 
 <div align="left">
 <a href="https://reactjs.org">
@@ -33,6 +33,9 @@
 </a>
 <a href="https://redux.js.org">
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+</a>
+<a href="https://redux.js.org">
+<img alt="Formik" src="https://img.shields.io/badge/Formik-593D88?style=for-the-badge&logo=formik&logoColor=white">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -70,11 +73,17 @@
 <a href="https://code.visualstudio.com">
 <img alt="VSC" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </a>
+<a href="https://linux.com">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-3d3c37?style=for-the-badge&logo=Linux&logoColor=black"/>
+</a>
 <a href="https://linuxmint.com">
 <img alt="LinuxMint" src="https://img.shields.io/badge/LinuxMint-21a336?style=for-the-badge&logo=LinuxMint&logoColor=white"/>
 </a>
 <a href="https://www.debian.org">
-<img alt="Debian" src="https://img.shields.io/badge/Debian-white?style=for-the-badge&logo=Debian&logoColor=red"/>
+<img alt="Debian" src="https://img.shields.io/badge/Debian-3d3c37?style=for-the-badge&logo=Debian&logoColor=red"/>
+</a>
+<a href="https://www.mysql.com/">
+<img alt="Debian" src="https://img.shields.io/badge/SQL-%230081CB?style=for-the-badge&logo=MySQL&logoColor=white"/>
 </a>
 </div>
 
@@ -90,15 +99,10 @@
 </div>
 
 
-
-
-
-
 <!--
 **msaserj/msaserj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
