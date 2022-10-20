@@ -90,11 +90,11 @@
 <br/>
 
 <div align="center">
-<a href="https://www.codewars.com/users/msaserj">
-    <img src="https://www.codewars.com/users/msaserj/badges/small"
-             title="msaserj github repositories" 
-             alt="msaserj github stats"
-             width="40%"/>
+//<a href="https://www.codewars.com/users/msaserj">
+//    <img src="https://www.codewars.com/users/msaserj/badges/small"
+//             title="msaserj github repositories" 
+//             alt="msaserj github stats"
+//             width="40%"/>
 </a>
 </div>
 
