@@ -16,11 +16,15 @@
     </a>
 </div>
 
-<div align="center">
-<a href="https://github.com/msaserj?tab=repositories">
-<img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=msaserj&hide_border=true"/>
-</a>
-</div>
+[//]: # (<div align="center">)
+
+[//]: # (<a href="https://github.com/msaserj?tab=repositories">)
+
+[//]: # (<img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=msaserj&hide_border=true"/>)
+
+[//]: # (</a>)
+
+[//]: # (</div>)
 
 ### 🥷
 
