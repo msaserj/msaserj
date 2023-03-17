@@ -92,7 +92,7 @@
 </div>
 
 <br/>
-
+<!--
 <div align="center">
 <a href="https://www.codewars.com/users/msaserj">
     <img src="https://www.codewars.com/users/msaserj/badges/small"
@@ -101,6 +101,7 @@
              width="40%"/>
 </a>
 </div>
+-->
 
 
 <!--
