@@ -35,6 +35,9 @@
 <a href="https://reactnative.dev">
 <img alt="ReactNative" src="https://img.shields.io/badge/reactnative-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </a>
+<a href="https://nextjs.org">
+<img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+</a>
 <a href="https://redux.js.org">
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 </a>
